@@ -1,0 +1,41 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "NOM_MRC": "La Côte-de-Beaupré"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-71.0, 47.1],
+            [-70.9, 47.1],
+            [-70.9, 47.2],
+            [-71.0, 47.2],
+            [-71.0, 47.1]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NOM_MRC": "Charlevoix"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-70.9, 47.3],
+            [-70.8, 47.3],
+            [-70.8, 47.4],
+            [-70.9, 47.4],
+            [-70.9, 47.3]
+          ]
+        ]
+      }
+    }
+  ]
+}
